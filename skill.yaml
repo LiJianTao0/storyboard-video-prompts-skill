@@ -1,0 +1,5 @@
+name: "storyboard_video_prompts"
+title: "分镜脚本提示词"
+description: "把用户给的剧本、故事、小说、文章或文档改编成可直接用于视频生成的专业分镜脚本：先列风格菜单定媒介与画风，再立视觉圣经与连续性台账，先给参考图清单和分镜表，最后输出带 @图 引用的分段提示词，附质感词、约束词库、质检与返修规则。"
+category: "Work and knowledge"
+include_in_prompt: true
