@@ -4,7 +4,7 @@
 
 **把剧本、故事、小说，变成可以直接拿去生成视频的专业分镜脚本**
 
-![version](https://img.shields.io/badge/version-v7.6-blue) ![type](https://img.shields.io/badge/type-AI%20Skill-purple) ![neutral](https://img.shields.io/badge/工具-中立-green) ![status](https://img.shields.io/badge/状态-持续更新-orange)
+![version](https://img.shields.io/badge/version-v7.7-blue) ![type](https://img.shields.io/badge/type-AI%20Skill-purple) ![neutral](https://img.shields.io/badge/工具-中立-green) ![status](https://img.shields.io/badge/状态-持续更新-orange)
 
 工具中立 · 实测沉淀 · @图分段提示词 · 质检与返修闭环
 
@@ -86,7 +86,7 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| `SKILL.md` | Skill 主体：全部规则与流程（当前 **v7.6**，2026-11-23） |
+| `SKILL.md` | Skill 主体：全部规则与流程（当前 **v7.7**，2026-11-24） |
 | `skill.yaml` | Skill 元信息 |
 
 ## 🔄 版本
